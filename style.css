@@ -54,7 +54,8 @@
   list-style: none;
 }
 
-.entry, .button{
+.entry, 
+.button{
   outline: none;
 }
 
